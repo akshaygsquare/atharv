@@ -1,0 +1,12 @@
+button{
+    background-color: rgb(70, 185, 70); 
+    color: white; 
+    height: 30px;  
+    border: none; 
+    border-radius: 3px;
+}
+button:hover{
+    background-color: tomato;
+    border: double;
+    
+}
